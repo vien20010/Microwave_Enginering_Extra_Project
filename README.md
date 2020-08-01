@@ -8,4 +8,4 @@ Output:
 Input:
 - Z0, ZL, f, Z1
 Output:
-- d,l,L,C
+- d, l, L, C
